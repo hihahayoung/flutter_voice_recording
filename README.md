@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# flutter_voice_recording
-=======
 # recording_application
 
 A new Flutter project.
